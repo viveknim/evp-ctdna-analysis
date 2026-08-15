@@ -1,0 +1,18 @@
+# Data files — HIPAA protected, never commit
+*.csv
+*.xlsx
+*.xls
+*.rds
+*.RData
+
+# R session artifacts
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Output files
+*.pdf
+*.tiff
+*.png
+*.docx
